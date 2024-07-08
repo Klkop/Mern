@@ -1,0 +1,16 @@
+.header{
+    background-color: aquamarine;
+}
+.header h3{
+    background-color: antiquewhite;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header ul{
+    font-size: 12px;
+    margin-left:auto;
+}
+.header li{
+    display:inline-block;
+    margin-left: 20px;
+}
